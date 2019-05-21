@@ -34,7 +34,7 @@ purchasers and non-purchasers in the control and treatment group. Then, for the 
 the simple approach is to use information obtained from only the second comparison, purchasers vs. 
 non-purchasers in the treatment group. By strategically selecting thresholds for each variable, we attempt to minimize promotions sent to the users that would not buy. 
 
-With this method, I was able to obtain and IRR/NIR of 0.0216/332.20, which exceeded the test solution of 0.0188/189.45.
+With this method, I was able to obtain an IRR/NIR of 0.0216 / 332.20, which exceeded the test solution of 0.0188 / 189.45.
 
 A possible improvement on this method may be trying to identify out of the purchasers in the treatment group, which ones would have purchased without the treatment. This is a more difficult task, as it requires somehow trying to classify users in the purchase/treatment group into two separate sub-groups: those that would purchase without the promotion, and those that purchased only because of the promotion. If there is too much overlap in the two distributions, such a classification may not be easily obtainable. 
 
